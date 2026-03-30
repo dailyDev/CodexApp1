@@ -1,0 +1,4 @@
+# Example three-column test data
+alpha 100 red
+beta 200 blue
+gamma 300 green
